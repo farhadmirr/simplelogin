@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>fallout_copy.png</file>
+        <file>facebook-social-media-icon-design-template-vector-png_126824.png</file>
+        <file>gmail.svg</file>
+        <file>instagram.svg</file>
+    </qresource>
+</RCC>
